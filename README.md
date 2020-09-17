@@ -23,5 +23,8 @@ Talk to me about
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yash-makadia&repo=github-readme-stats)](https://github.com/yash-makadia/github-readme-stats)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yash-makadia)
+
 
