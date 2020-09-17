@@ -24,5 +24,3 @@ Talk to me about
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=radical)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yash-makadia)
-
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=gradient)
