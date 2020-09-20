@@ -21,6 +21,9 @@ Talk to me about
 - Familiar with framework like **ReactJS**
 
 
+
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=highcontrast)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yash-makadia)](https://github.com/yash-makadia/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yash-makadia)
