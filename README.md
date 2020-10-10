@@ -19,7 +19,7 @@
 </a>
 <br/>
 <br/>
-## About
+<h2>About</h2>
 I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Tech from Charotar University of Science and Technology 🏫. I'm a Data Science and Machine Learning enthusiast. I love to explore and learn about new things.
 
 ## 👯 Communities
