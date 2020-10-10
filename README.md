@@ -29,11 +29,6 @@ I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Te
 - Campus Ambassador at Internmind
 - Campus Ambassador at InternIn
 
-## Top Languages
-<a href="https://github.com/yash-makadia">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-makadia&&layout=compact&theme=radical&hide=glsl" />
-</a>
-<br/>
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
@@ -44,7 +39,12 @@ Talk to me about
 - Known to database languages like **SQL, MySQL and MongoDB**
 - BI visualization tools Microsoft Power BI, Tableau , Excel
 
+## Top Languages
+<a href="https://github.com/yash-makadia">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-makadia&&layout=compact&theme=radical&hide=glsl" />
+</a>
+<br/>
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=highcontrast&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=radical&&count_private=true&line_height=27&v=5" alt="Yash's GitHub Stats" />
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yash-makadia)
