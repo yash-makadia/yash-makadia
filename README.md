@@ -22,7 +22,7 @@ Talk to me about
 
 
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=highcontrast)
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=highcontrast&count_private=true)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yash-makadia)
