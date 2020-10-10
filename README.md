@@ -30,7 +30,10 @@ I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Te
 - Campus Ambassador at InternIn
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-makadia&layout=compact)](https://github.com/yash-makadia/github-readme-stats)
+<a href="https://github.com/yash-makadia">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-makadia&&layout=compact&theme=radical&hide=glsl" />
+</a>
+<br/>
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
