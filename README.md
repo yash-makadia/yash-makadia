@@ -2,8 +2,21 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Yash_makadia08-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Yash_makadia08)](https://twitter.com/Yash_makadia08) [![Linkedin Badge](https://img.shields.io/badge/-YashMakadia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashmakadia07)](https://www.linkedin.com/in/yashmakadia07)
-[![Gmail Badge](https://img.shields.io/badge/-yashmakadia1908@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashmakadia1908@gmail.com)](mailto:yashmakadia1908@gmail.com)
+<a href="https://mailto:yashmakadia1908@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
+</a>
+<a href="https://twitter.com/Yash_makadia08">
+  <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yashmakadia07/">
+  <img align="left" alt="Yash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/yash.makadia7/">
+  <img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/yash.makadia.39/">
+  <img align="left" alt="Yash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
+</a>
 
 I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Tech from Charotar University of Science and Technology 🏫. I'm a Data Science and Machine Learning enthusiast. I love to explore and learn about new things.
 ## 👯 Communities
