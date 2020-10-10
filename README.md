@@ -17,6 +17,8 @@
 <a href="https://www.facebook.com/yash.makadia.39/">
   <img align="left" alt="Yash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
 </a>
+<br/>
+<br/>
 ## About
 I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Tech from Charotar University of Science and Technology 🏫. I'm a Data Science and Machine Learning enthusiast. I love to explore and learn about new things.
 
