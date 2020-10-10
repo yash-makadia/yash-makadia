@@ -17,7 +17,7 @@ I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Te
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **NodeJS*
+- Backend development using **NodeJS**
 - Python for Data Science
 - Implementation of **Machine Learning and Deep Learning** algorithms
 - Different projects regarding **Data Science and Machine Leanring**
