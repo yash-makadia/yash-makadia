@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<a href="https://mailto:yashmakadia1908@gmail.com">
+<a href="mailto:yashmakadia1908@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/Yash_makadia08">
