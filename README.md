@@ -28,6 +28,9 @@ I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Te
 - Campus Ambassador at Code Warriors
 - Campus Ambassador at Internmind
 - Campus Ambassador at InternIn
+
+<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" align="right" height="200"></iframe>
+</br>
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-makadia&layout=compact)](https://github.com/yash-makadia/github-readme-stats)
 ## ⚡ Technologies
