@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Yash_makadia08-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Yash_makadia08)](https://twitter.com/Yash_makadia08) [![Linkedin Badge](https://img.shields.io/badge/-YashMakadia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashmakadia07)](https://www.linkedin.com/in/yashmakadia07)
 [![Gmail Badge](https://img.shields.io/badge/-yashmakadia1908@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashmakadia1908@gmail.com)](mailto:yashmakadia1908@gmail.com)
 
-I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently doing my B.Tech from Charotar University of Science and Technology 🏫.I love to explore and learn about new things.
+I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Tech from Charotar University of Science and Technology 🏫. I'm a Data Science and Machine Learning enthusiast. I love to explore and learn about new things.
 ## 👯 Communities
 - Campus Ambassador at Techfest, IIT Bombay
 - Internshala Student Partner -19 at Internshala
