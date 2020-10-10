@@ -7,22 +7,23 @@
 
 I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently doing my B.Tech from Charotar University of Science and Technology 🏫.I love to explore and learn about new things.
 ## 👯 Communities
-* CamPus Ambassador at Techfest, IIT Bombay
+- Campus Ambassador at Techfest, IIT Bombay
+- Internshala Student Partner -19 at Internshala
+- Campus Ambassador at Code Warriors
+- Campus Ambassador at Internmind
+- Campus Ambassador at InternIn
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-makadia&layout=compact)](https://github.com/yash-makadia/github-readme-stats)
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **NodeJS,ExpressJS**
-- Robust full-stack system design implementation
+- Backend development using **NodeJS*
+- Python for Data Science
 - Implementation of **Machine Learning and Deep Learning** algorithms
-- Different projects regarding **Object Detection with OpenCv and Deep Learning**
+- Different projects regarding **Data Science and Machine Leanring**
 - Known to database languages like **SQL, MySQL and MongoDB**
-- Familiar with framework like **ReactJS**
-
+- BI visualization tools Microsoft Power BI, Tableau , Excel
 
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-makadia&show_icons=true&theme=highcontrast&count_private=true)
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yash-makadia)
