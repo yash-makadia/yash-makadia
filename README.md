@@ -20,12 +20,16 @@
 <br/>
 <br/>
 <h2>About</h2>
-I am Yash Makadia 😃. I am from Rajkot, Gujarat and currently pursuing my B.Tech from Charotar University of Science and Technology 🏫. I'm a Data Science and Machine Learning enthusiast. I love to explore and learn about new things.
+I am a computer engineering graduate and currently pursuing Master's degree in Information Systems from the Robert H Smith School of Business, University of Maryland College Park. With a unique combination of technical knowledge and passion for data analysis, I am seeking a career transition into analyst roles.
 
-## 👯 Communities
-- Campus Ambassador at Techfest, IIT Bombay
-- Internshala Student Partner -19 at Internshala
-- Campus Ambassador at Code Warriors
+My experience includes 18 months as a Quality Assurance Engineer at Crest Data Systems, where I was a part of the Splunk Third-Party Integrations team. During my time there, I worked on various Splunk add-ons and apps, led a team of interns, and provided training on Splunk.
+
+My education and experience have equipped me with the skills to analyze data using tools such as Python, R, Tableau, Power BI, Excel, and SQL. I have also worked on machine learning algorithms and projects.
+
+As an AWS Cloud Practitioner certified professional, I am committed to staying current in the industry. I am confident in my ability to deliver valuable insights and solutions to clients and am excited to take the next step in my career as an analyst.
+
+Feel free to reach out to me on LinkedIn or via email at ymakadia@umd.edu.
+
 
 ## Top Languages
 <a href="https://github.com/yash-makadia">
