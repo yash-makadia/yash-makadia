@@ -20,7 +20,9 @@
 <br/>
 <br/>
 <h2>About</h2>
+
 I am a computer engineering graduate and currently pursuing Master's degree in Information Systems from the Robert H Smith School of Business, University of Maryland College Park. With a unique combination of technical knowledge and passion for data analysis, I am seeking a career transition into analyst roles.
+
 
 My experience includes 18 months as a Quality Assurance Engineer at Crest Data Systems, where I was a part of the Splunk Third-Party Integrations team. During my time there, I worked on various Splunk add-ons and apps, led a team of interns, and provided training on Splunk.
 
