@@ -10,7 +10,7 @@
     <div class="text-center mb-8">
       <h1 class="text-4xl font-bold glow">Hello, I'm Yash! 👋</h1>
       <p class="text-xl mt-2 text-gray-300">Crafting insights from data with Python, SQL, Power BI, and Tableau</p>
-      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Data Animation" class="mx-auto mt-4 w-32">
+      <img src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" alt="Data Animation" style="width: 300px; border: 2px solid #ffffff; border-radius: 8px; padding: 5px; box-shadow: 0 0 8px rgba(255, 255, 255, 0.3);">
     </div>
     <!-- About Section -->
     <div class="bg-gray-800 rounded-lg p-6 mb-8 shadow-lg">
