@@ -17,7 +17,7 @@
     <div class="bg-gray-800 rounded-lg p-6 mb-8 shadow-lg">
       <h2 class="text-2xl font-semibold mb-4">About Me</h2>
       <p class="text-gray-300 leading-relaxed">
-        I'm a data alchemist, turning raw numbers into actionable strategies that empower businesses to thrive. With deep expertise in <strong>Python</strong>, <strong>SQL</strong>, <strong>Power BI</strong>, and <strong>Tableau</strong>, I specialize in uncovering hidden patterns and driving impactful decisions across industries like finance and banking. My toolkit spans <strong>AWS</strong>, <strong>Salesforce</strong>, <strong>Pandas</strong>, and advanced statistical modeling, allowing me to craft intuitive dashboards, scalable data pipelines, and robust predictive models that bring clarity to complex datasets.
+        I'm a data alchemist, turning raw numbers into actionable strategies that empower businesses to thrive. With deep expertise in <strong>Python</strong>, <strong>SQL</strong>, <strong>Excel</strong>, <strong>Power BI</strong>, and <strong>Tableau</strong>, I specialize in uncovering hidden patterns and driving impactful decisions across industries like finance and banking. My toolkit spans <strong>AWS</strong>, <strong>Salesforce</strong>, <strong>Pandas</strong>, and advanced statistical modeling, allowing me to craft intuitive dashboards, scalable data pipelines, and robust predictive models that bring clarity to complex datasets.
       </p>
       <p class="text-gray-300 mt-4">
         I’m passionate about leveraging <strong>data analytics</strong> and <strong>machine learning</strong> to solve real-world challenges, whether it’s optimizing workflows or enhancing decision-making processes. I thrive on transforming intricate data into compelling stories through clean code, insightful visualizations, and a keen eye for detail. Let’s connect to brew some data magic! ✨
@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
     <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat" alt="R">
     <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat" alt="SQL">
+    <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" alt="Excel">
     <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat" alt="Power BI">
     <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat" alt="Tableau">
     <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" alt="AWS">
